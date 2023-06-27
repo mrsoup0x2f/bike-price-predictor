@@ -1,0 +1,46 @@
+body {
+    background-color: #fff;
+}
+
+.font-title {
+    font-family: 'Poppins', sans-serif !important;
+    
+}
+.font-body {
+    font-family: 'Montserrat', sans-serif !important;
+}
+.text-bold {
+    font-weight: normal !important;
+}
+.text-bold {
+    font-weight: bold !important;
+}
+
+.fullScreenFrame > div {
+    display: flex;
+    justify-content: center;
+}
+
+.strong {
+    font-weight: bold;
+}
+.d-block {
+    display: block;
+}
+.extra-info {
+    font-weight: normal;
+    font-style: italic;
+    font-size: small;
+}
+
+.story-box {
+    overflow-y: scroll;
+    max-height: 240px;
+}
+
+.story-box p {
+    font-size: 0.85rem;
+}
+.story-box pre {
+    font-size: 0.6rem;
+}
